@@ -1,4 +1,4 @@
-package pl.sdacademy.designpatterns.Proxy;
+package pl.sdacademy.designpatterns.proxy;
 
 public class ProxyDemo {
     public static void main(String[] args) {

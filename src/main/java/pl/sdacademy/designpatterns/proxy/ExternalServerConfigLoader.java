@@ -1,4 +1,4 @@
-package pl.sdacademy.designpatterns.Proxy;
+package pl.sdacademy.designpatterns.proxy;
 
 import java.util.Random;
 
